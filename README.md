@@ -7,7 +7,7 @@
   ➢Css 
   ➢Javascript  
  ➢Bootstrap
-  ➢React (basics and working with components, State and working with events, renedring lists and conditional contnet, styling components, debugging apps, hooks and http requests).
+  ➢React (basics and working with components, State and working with events, renedring lists and conditional content, styling components, debugging apps, hooks and http requests).
 - I’m currently learning how to use Git and Github.
 - 📫 How to reach me:
   Email: martinsoler_91@outlook.com, 
