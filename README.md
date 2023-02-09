@@ -7,7 +7,7 @@
   ➢Css 
   ➢Javascript  
  ➢Bootstrap
-  ➢React.js
+  ➢React
   ➢MERN 
 - I’m currently learning MERN.
 - 📫 How to reach me:
