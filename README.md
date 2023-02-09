@@ -6,10 +6,12 @@
   ➢Html
   ➢Css 
   ➢Javascript  
- ➢Bootstrap
+  ➢Bootstrap
   ➢React
-  ➢MERN 
-- I’m currently learning MERN.
+  ➢Mongo db
+  ➢Express
+  ➢Node.js
+- I’m currently practicing MERN in order to obtain more Backend knowledge.
 - 📫 How to reach me:
   Email: martinsoler_91@outlook.com, 
   Linkedin: Martin Soler
