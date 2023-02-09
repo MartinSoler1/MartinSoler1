@@ -8,7 +8,7 @@
   ➢Javascript  
   ➢Bootstrap
   ➢React
-  ➢Mongo db
+  ➢MongoDB
   ➢Express
   ➢Node.js
 - I’m currently practicing MERN in order to obtain more Backend knowledge.
